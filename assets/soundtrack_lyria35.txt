@@ -1,0 +1,19 @@
+Title: Pulsazioni di Fourier (The Italian Puffin Tri-Suit Symphony)
+Artist: Riccardo C feat. Google Lyria 3.5
+Album: Gemini Multimodal Showcase (2026)
+Model: Google Lyria 3.5 (lyria-3-mp3 / 120.0 BPM)
+Mosic Score: 4.5 / 5.0
+BPM: 120.0
+Duration: 30.0s
+
+Prompt:
+Instrumental cinematic progressive electronic and orchestral soundtrack, 120 BPM, evolving in 3 distinct acts over 30 seconds:
+- Act 1 (0-10s): Starts with delicate, hypnotic clockwork kalimba, crystalline harp plucks, and warm analog synth pulses evoking spinning mathematical gears;
+- Act 2 (10-19s): Builds momentum with fast driving arpeggios, rising string staccatos, and a thrilling crescendo as precision increases;
+- Act 3 (19-30s): Erupts into a triumphant, euphoric grand orchestral and synthwave finale with soaring brass, lush strings, and radiant major-key chords celebrating a colorful reveal. High-fidelity cinematic mastering, no vocals.
+
+Lyria 3.5 Acoustic Caption:
+<instrumental> A high-fidelity Cinematic Progressive Electronic and Orchestral Hybrid Soundtrack, structured as a single 30-second piece that evolves through three distinct emotional and textural acts.
+- Act 1 (0-10s) creates a delicate, hypnotic atmosphere. The foundation is a warm, round-toned analog synth bass (like a Moog Model D) playing pulsing eighth-notes on the root of each chord, establishing a gentle momentum. Layered on top are intricate, hypnotic patterns from a clockwork-like kalimba, its metallic plucks processed with a wide stereo ping-pong delay. This is complemented by crystalline, bell-like staccato plucks from an orchestral harp playing rapid arpeggios, together evoking the sound of precise, spinning mathematical gears.
+- Act 2 (10-19s) builds thrilling momentum. The harmonic density increases as a fast, bright, driving 16th-note arpeggio from a Juno-60 style analog synth enters, forming a central rhythmic and melodic engine. Simultaneously, a full orchestral string section makes its appearance, with violins and violas playing short, rising staccato phrases that ascend in pitch, creating powerful forward motion. The tension is amplified by a massive, sustained crescendo on a suspended cymbal roll.
+- Act 3 (19-30s) culminates in a triumphant, euphoric grand finale. A lush, sweeping orchestral string section takes over with soaring major-key melodic lines, supported by a powerful, radiant brass section of French horns and trumpets playing heroic fanfares. A massive synthwave-style supersaw lead, composed of multiple stacked and detuned saw waves, doubles the main orchestral melody to add an epic electronic texture. The rhythm is driven by powerful, reverb-drenched orchestral drum hits and timpani rolls, creating a bombastic and celebratory soundscape.
